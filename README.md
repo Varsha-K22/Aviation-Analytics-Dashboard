@@ -116,6 +116,8 @@ See the glimpse of my dashboard screenshots here:
 <img width="1307" height="743" alt="airportanalysis" src="https://github.com/user-attachments/assets/f10ec9b3-7e95-45d3-bf93-dd629ba4c716" />
 <img width="1320" height="735" alt="airlineperformance" src="https://github.com/user-attachments/assets/ff2833a0-21c0-46dd-8c6c-187286a270fe" />
 
+📷 Dashboard Video
+https://www.linkedin.com/feed/update/urn:li:activity:7460014859636854786/
 
 📌 Author
   Varsha K
